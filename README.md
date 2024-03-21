@@ -1,6 +1,5 @@
-# HolmE-ESWC
-This is the code of paper “Low-Dimensional Hyperbolic Knowledge Graph Embedding for Better Extrapolation to Under-Represented Data”
-
+# HolmE
+HolmE is a general KGE form that is closed under composition.
 
 Download and pre-process the datasets:
 ```
